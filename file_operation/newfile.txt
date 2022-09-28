@@ -1,0 +1,2 @@
+If you instead want to drop all your local changes and commits, fetch the latest history from the server and point your local master branch at it like thisIn your working directory to fetch and merge remote changes. 
+to merge another branch into your active branch (e.g. master), use
